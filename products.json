@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "name": "Mouse",
+      "price": 25000
+    },
+    {
+      "id": "2",
+      "name": "Teclado",
+      "price": 40000
+    },
+    {
+      "id": "3",
+      "name": "Monitor",
+      "price": 120000
+    },
+    {
+     "name": "Auriculares Bluetooth",
+     "price": 35000,
+     "id": "adb4174b-adbe-4b90-8319-35b51e0b14be"
+    }
+  ]
+  
